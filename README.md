@@ -2,12 +2,12 @@
 Repository contains solutions to Algorithmic Problems of Hackerrank Platform.
  
 
-### 1. Problem 1 : (Medium)
+### Problem 1 : (Medium)
 [Problem Statement](http://www.hackerrank.com/challenges/the-time-in-words/problem)
 <br>
 Submission : the_time_in_words.cpp
 
-### 1. Problem 2 : (Medium)
+### Problem 2 : (Medium)
 [Problem Statement](https://www.hackerrank.com/challenges/pairs/problem)
 <br>
 Submission : pairs.cpp
