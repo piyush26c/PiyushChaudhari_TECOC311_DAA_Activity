@@ -7,3 +7,7 @@ Repository contains solutions to Algorithmic Problems of Hackerrank Platform.
 <br>
 Submission : the_time_in_words.cpp
 
+### 1. Problem 2 : (Medium)
+[Problem Statement](https://www.hackerrank.com/challenges/pairs/problem)
+<br>
+Submission : pairs.cpp
