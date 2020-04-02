@@ -11,3 +11,8 @@ Submission : the_time_in_words.cpp
 [Problem Statement](https://www.hackerrank.com/challenges/pairs/problem)
 <br>
 Submission : pairs.cpp
+
+### Problem 3 : (Complex)
+[Problem Statement](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)
+<br>
+Submission : matrix_layer_rotation.cpp
